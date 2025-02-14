@@ -15,7 +15,7 @@ Snapshot is a desktop application that helps designers manage versions of their 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/snapshot.git
+git clone https://github.com/mandelatrey/snapshot.git
 
 2. Install dependencies:
 pip install -r requirements.txt
